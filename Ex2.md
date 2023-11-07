@@ -116,3 +116,6 @@ select avg(salary) from manager;
  SELECT designation AS job, COUNT(*) AS num_employees FROM manager GROUP BY designation ORDER BY num_employees DESC;
 ### OUTPUT:
 ![image](https://github.com/Priya-Loganathan/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/121166075/72c4043e-ff24-46a3-9791-16b6cd70b178)
+
+## Result:
+Thus , a manager database is created and DML queries are executed successfully.
